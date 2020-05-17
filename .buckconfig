@@ -1,0 +1,6 @@
+[httpserver]
+port = 0
+[python]
+
+[python#py3]
+  interpreter = /usr/bin/python3
