@@ -10,3 +10,4 @@
 - Depends on watchman
 - Watchman binaries don't work on linux for 6 months (can be compiled from source). https://github.com/facebook/watchman/issues/760  
 - buckbuild.slack.com only open to select few email domains. Lack of community
+- requires a daemon running in the background
