@@ -1,6 +1,6 @@
 
 python_binary(
-    name = 'binary2',
+    name = 'binary_project2',
     main_module = 'binary2.cli',
     deps = [
       ':binary2lib',
